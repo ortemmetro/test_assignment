@@ -29,3 +29,9 @@ This app follows a **feature-first architecture** with clean separation of conce
 - 🧱 BLoC state management  
 
 ## 🛠️ Setup Instructions
+
+- You will need an Android emulator or real Android based phone
+- Clone repository 
+- Firstly, insert into ***lib/src/di/modules/constants_module.dart*** your GoogleMapsApi key to make googleMapsWork
+- run flutter pub get
+- run flutter run
