@@ -26,6 +26,19 @@ This app follows a **feature-first architecture** with clean separation of conce
 - 📅 Choose ride date & time  
 - 📚 View list of previously booked rides  
 - ✨ Responsive and user-friendly UI  
-- 🧱 BLoC state management  
+- 🧱 BLoC state management
+
+## 📦 Dependencies
+
+- flutter_bloc	=> BLoC state management
+- google_maps_flutter	=> Google Maps integration
+- geolocator	=> Device location services
+- geocoding	=> Convert coordinates to readable addresses
 
 ## 🛠️ Setup Instructions
+
+- You will need an Android emulator or real Android based phone
+- Clone repository 
+- Firstly, insert into ***lib/src/di/modules/constants_module.dart*** your GoogleMapsApi key to make googleMapsWork
+- run flutter pub get
+- run flutter run
