@@ -30,10 +30,10 @@ This app follows a **feature-first architecture** with clean separation of conce
 
 ## 📦 Dependencies
 
-flutter_bloc	=> BLoC state management
-google_maps_flutter	=> Google Maps integration
-geolocator	=> Device location services
-geocoding	=> Convert coordinates to readable addresses
+- flutter_bloc	=> BLoC state management
+- google_maps_flutter	=> Google Maps integration
+- geolocator	=> Device location services
+- geocoding	=> Convert coordinates to readable addresses
 
 ## 🛠️ Setup Instructions
 
