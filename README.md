@@ -8,7 +8,7 @@ A simple ride booking app built in **Flutter** using **BLoC**, **Google Maps**, 
 |-------------|---------------------------|--------------------|--------------------|
 | ![<img src="screenshots/home_page.png" width="400px">](screenshots/home_page.png) | ![<img src="screenshots/map_page1.png" width="400px">](screenshots/map_page1.png) | ![<img src="screenshots/map_page2.png" width="400px">](screenshots/map_page2.png) | ![<img src="screenshots/booked_rides_page.png" width="400px">](screenshots/booked_rides_page.png) |
 
-🎥 [Watch video demo here]([https://youtube.com/shorts/kFhhS0xiZvE?feature=share])  
+🎥 [***Watch video demo here***](https://youtube.com/shorts/kFhhS0xiZvE?feature=share)  
 
 ## 🧠 Architecture
 
