@@ -6,7 +6,7 @@ A simple ride booking app built in **Flutter** using **BLoC**, **Google Maps**, 
 
 | Home Screen | Select Origin/Destination | BottomSheet | View Booked Rides |
 |-------------|---------------------------|--------------------|--------------------|
-| ![home](screenshots/home_page.png) | ![select_location](screenshots/map_page1.png) | ![bottom_sheet](screenshots/map_page2.png) | ![booked_rides](screenshots/booked_rides_page.png) |
+| ![home](screenshots/home_page.png=100x20) | ![select_location](screenshots/map_page1.png=100x20) | ![bottom_sheet](screenshots/map_page2.png=100x20) | ![booked_rides](screenshots/booked_rides_page.png=100x20) |
 
 🎥 [Watch video demo](https://your-video-link-here.com)  
 *Replace this with a link to a short demo video.*
