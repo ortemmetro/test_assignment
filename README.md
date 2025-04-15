@@ -1,0 +1,31 @@
+# 🚗 Ride Booking App
+
+A simple ride booking app built in **Flutter** using **BLoC**, **Google Maps**, and location services. This app demonstrates core functionalities like selecting origin/destination, choosing passenger count, booking rides, and viewing past bookings.
+
+## 📸 Demo
+
+| Home Screen | Select Origin/Destination | View Booked Rides |
+|-------------|---------------------------|--------------------|
+| ![home](screenshots/home.png) | ![select_location](screenshots/select_location.png) | ![booked_rides](screenshots/booked_rides.png) |
+
+🎥 [Watch video demo](https://your-video-link-here.com)  
+*Replace this with a link to a short demo video.*
+
+## 🧠 Architecture
+
+This app follows a **feature-first architecture** with clean separation of concerns across three layers:
+- **Domain Layer** – business logic, use cases, and entities
+- **Data Layer** – repositories and data sources
+- **Presentation Layer** – UI, BLoC, and widgets
+
+## 🔧 Features
+
+- 🌍 Select origin and destination using Google Maps  
+- 📍 Current location integration  
+- 👥 Set number of passengers  
+- 📅 Choose ride date & time  
+- 📚 View list of previously booked rides  
+- ✨ Responsive and user-friendly UI  
+- 🧱 BLoC state management  
+
+## 🛠️ Setup Instructions
